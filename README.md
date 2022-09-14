@@ -15,3 +15,27 @@ Isso significa que, apesar de difundido o conceito de microsserviços, ainda há
 
 É mais fácil explicar o que é arquitetura de microsserviços contrastando-a com a arquitetura monolítica, pois ela representa uma mudança do paradigma centralizador para um paradigma descentralizador de construção de aplicações.
 
+![image](https://user-images.githubusercontent.com/98756562/190174149-354839f7-dbf6-4f96-835b-ce1f6a0f602e.png)
+
+Aplicativos monolíticos podem ser bem-sucedidos, porém serão frustrantes – especialmente quando mais aplicações forem implementadas em nuvem. Ciclos de desenvolvimento são amarrados – uma mudança feita em uma pequena parte do aplicativo requer que o monolito inteiro seja republicado. Ao longo do tempo ficará cada vez mais difícil manter uma estrutura modular, o que torna mais difícil fazer com que mudanças afetem apenas um módulo. Escalar requer escalar o aplicativo inteiro, não apenas as partes que requerem mais recursos.
+
+Em contraste com a arquitetura monolítica, que funciona como um único serviço, a arquitetura de microsserviços é a composição de um único software baseada em um conjunto de peças altamente especializadas, autônomas e simples.
+
+Essa arquitetura tem um acoplamento flexível e fraco de suas partes. Isso significa que não é preciso considerar o impacto de cada componente no aplicativo como um todo: cada um pode ser mantido por uma equipe pequena, escrito em uma linguagem própria, atualizado e modificado independentemente da aplicação principal e escalado à vontade, sem recompilação e reimplantação do sistema como um todo.
+
+Até por serem cloud nativos, os microsserviços funcionam normalmente com cloud computing, ainda que não exclusivamente.
+
+### Por que a arquitetura de microsserviços pode ser útil a organizações?
+
+Para grandes empresas, adotar a arquitetura de microsserviços significa acabar com a dependência de um hardware particular ou de um software fornecedor. Ademais, elas podem ter sua infraestrutura melhorada sem afetar grande parte das aplicações. 
+
+Já para pequenos negócios e startups pode ser uma forma de viabilizar projetos complexos. Se, antes, eles tinham uma quase intransponível desvantagem em relação às grandes empresas, que podiam bancar grandes data centers e uma grande equipe para mantê-los, a arquitetura de microsserviços democratiza mais esse acesso.  
+
+Todas as organizações, potencialmente, podem acessar as APIs da Amazon ou do Google para usar seus ativos. Isso permite que softwares e aplicativos complexos sejam construídos rapidamente, usando serviços construídos e mantidos por outros.
+
+### Desvantagens da arquitetura de microsserviços
+
+Ora, depois de enfatizarmos tantos benefícios da arquitetura de microsserviços, será que ainda tem lugar para alguma desvantagem? Sim.
+A maioria dos problemas que podem surgir com uso da arquitetura de microsserviços tem a ver, justamente, com sua lógica descentralizadora, que apresenta – como tudo – prós e contras.
+
+
