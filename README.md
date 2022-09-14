@@ -38,4 +38,25 @@ Todas as organizações, potencialmente, podem acessar as APIs da Amazon ou do G
 Ora, depois de enfatizarmos tantos benefícios da arquitetura de microsserviços, será que ainda tem lugar para alguma desvantagem? Sim.
 A maioria dos problemas que podem surgir com uso da arquitetura de microsserviços tem a ver, justamente, com sua lógica descentralizadora, que apresenta – como tudo – prós e contras.
 
+1.	Complexidade
+
+É fácil perceber que um sistema formado por partes autônomas e especializadas forma um todo bem complexo, distribuído. Uma arquitetura monolítica, por outro lado, tem o benefício de ser um sistema centralizado e blocado.
+Por isso, seguindo Martin Fowler, especialista em arquitetura de software, “não considere migrar para microsserviços a menos que você já tenha um sistema que seja muito complexo para gerenciar como um monolito”. 
+
+2.	Governança 
+
+Com vários componentes completamente distintos trabalhando juntos em um único aplicativo, a governança pode deixar a desejar.
+
+3.	Integração com aplicações monolíticas legadas
+
+Como não se comunica com outros serviços, o uso da rede em um monolito é bem menor. Esse baixo tráfego de rede é uma vantagem que pode se perder na migração para microsserviços. Isso porque ter muitos pequenos serviços pode gerar uma cadeia de comunicação extremamente prolixa e interdependente, comprometendo o funcionamento da rede.
+
+4.	Segurança
+
+Algumas vulnerabilidades dos microsserviços são resultados diretos de sua natureza aberta, com uma ampla superfície sujeita a ataques. Sobretudo quando os microsserviços não estiverem bem definidos, documentados e estandardizados por meio de APIs seguras, a segurança também pode se tornar um problema.
+
+
+Há casos em que migrar de um monolito para microsserviços pode ser muito vantajoso, melhorando um sistema.
+
+Em outros, como vimos, nem tanto. Além disso, sem a construção de um monolito modular e uma boa distribuição das peças, as desvantagens podem se sobrepor às vantagens da arquitetura.
 
