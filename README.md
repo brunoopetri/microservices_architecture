@@ -17,7 +17,7 @@ Isso significa que, apesar de difundido o conceito de microsserviços, ainda há
 
 ![monolito-microsserviços](https://user-images.githubusercontent.com/98756562/190196378-1b0eca01-0c60-43eb-b154-da29858f4bd8.png)
 
-Aplicativos monolíticos podem ser bem-sucedidos, porém serão frustrantes – especialmente quando mais aplicações forem implementadas em nuvem. Ciclos de desenvolvimento são amarrados – uma mudança feita em uma pequena parte do aplicativo requer que o monolito inteiro seja republicado. Ao longo do tempo ficará cada vez mais difícil manter uma estrutura modular, o que torna mais difícil fazer com que mudanças afetem apenas um módulo. Escalar requer escalar o aplicativo inteiro, não apenas as partes que requerem mais recursos.
+*Aplicativos monolíticos podem ser bem-sucedidos, porém serão frustrantes – especialmente quando mais aplicações forem implementadas em nuvem. Ciclos de desenvolvimento são amarrados – uma mudança feita em uma pequena parte do aplicativo requer que o monolito inteiro seja republicado. Ao longo do tempo ficará cada vez mais difícil manter uma estrutura modular, o que torna mais difícil fazer com que mudanças afetem apenas um módulo. Escalar requer escalar o aplicativo inteiro, não apenas as partes que requerem mais recursos.*
 
 Em contraste com a arquitetura monolítica, que funciona como um único serviço, a arquitetura de microsserviços é a composição de um único software baseada em um conjunto de peças altamente especializadas, autônomas e simples.
 
