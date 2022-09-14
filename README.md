@@ -25,6 +25,27 @@ Essa arquitetura tem um acoplamento flexível e fraco de suas partes. Isso signi
 
 Até por serem cloud nativos, os microsserviços funcionam normalmente com cloud computing, ainda que não exclusivamente.
 
+### Quatro Vantagens dos microsserviços
+
+1. Facilidade e rapidez na atualização e implantação dos serviços
+
+Com microsserviços, atualizações e mudanças podem ser feitas sem projetos e aprovações complexas, pois são menores em escopo e independentes.Esqueça demorar semanas para fazer coisas relativamente simples. A integração e a entrega são contínuas.
+
+2. Aumentar a flexibilidade da infraestrutura
+
+Boa parte da rapidez e da facilidade vem da independência dos serviços entre si, ou seja, de sua flexibilidade. Os componentes do aplicativo não precisam compartilhar código, modelos de dados e database comuns.
+
+3. Escalabilidade
+
+Com microsserviços, cada serviço pode escalar independentemente para atender uma demanda.  
+
+Isso significa que a ampliação se torna bem dimensionada e precisa, realizada apenas nos serviços que precisam dela, requerendo menos infraestrutura do que aplicativos monolíticos.
+
+4. Estandardização de serviços
+
+Dentro da arquitetura de microsserviços, há vários padrões de design, comunicação e de integração que ajudam a lidar com desafios bem comuns, como backend-for-frontend (BFF), entidades e agregações, descoberta de serviços etc.
+
+
 ### Por que a arquitetura de microsserviços pode ser útil a organizações?
 
 Para grandes empresas, adotar a arquitetura de microsserviços significa acabar com a dependência de um hardware particular ou de um software fornecedor. Ademais, elas podem ter sua infraestrutura melhorada sem afetar grande parte das aplicações. 
