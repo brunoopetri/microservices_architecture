@@ -4,7 +4,7 @@
 
 # Microsserviços: conceito, vantagens e desvantagens dessa arquitetura
 
-Entenda como funcionam os microsserviços e quais as vantagens e desvantagens deles
+Entenda como funcionam os microsserviços e quais as vantagens e desvantagens dele
 
 Microsserviços, nasceram em 2009, mas sua fama e popularidade começou realmente entre 2014 e 2015, quando o mercado reconheceu que o modelo de arquitetura era, de fato, atraente para o desenvolvimento de softwares em nuvem. Desde então tem se consolidado como um padrão cada vez mais comum e preferido pelos desenvolvedores, sobretudo agora com o mundo se movendo para a cloud computing.
 
