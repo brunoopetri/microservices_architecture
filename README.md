@@ -15,7 +15,7 @@ Isso significa que, apesar de difundido o conceito de microsserviços, ainda há
 
 É mais fácil explicar o que é arquitetura de microsserviços contrastando-a com a arquitetura monolítica, pois ela representa uma mudança do paradigma centralizador para um paradigma descentralizador de construção de aplicações.
 
-![image](https://user-images.githubusercontent.com/98756562/190174149-354839f7-dbf6-4f96-835b-ce1f6a0f602e.png)
+![monolito-microsserviços](https://user-images.githubusercontent.com/98756562/190196378-1b0eca01-0c60-43eb-b154-da29858f4bd8.png)
 
 Aplicativos monolíticos podem ser bem-sucedidos, porém serão frustrantes – especialmente quando mais aplicações forem implementadas em nuvem. Ciclos de desenvolvimento são amarrados – uma mudança feita em uma pequena parte do aplicativo requer que o monolito inteiro seja republicado. Ao longo do tempo ficará cada vez mais difícil manter uma estrutura modular, o que torna mais difícil fazer com que mudanças afetem apenas um módulo. Escalar requer escalar o aplicativo inteiro, não apenas as partes que requerem mais recursos.
 
