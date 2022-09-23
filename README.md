@@ -83,8 +83,9 @@ Em outros, como vimos, nem tanto. Além disso, sem a construção de um monolito
 
 ### Resumo
 
-Conhecemos a linguagem básica que você pode utilizar ao conversar com seus colegas de trabalho sobre microsserviços enquanto tomam um café. We've also seen that monolithic systems aren't inherently bad and can even help your company grow your business, to the same extent that microservices can slow you down if you use them at the wrong time; in the long run, however, microservices could improve the way users interact with your systems.
+Conhecemos a linguagem básica que você pode utilizar ao conversar com seus colegas de trabalho sobre microsserviços enquanto tomam um café. Também vimos que os sistemas monolíticos não são inerentemente ruins e podem até mesmo ajudar no crescimento dos negócios de sua empresa, na mesma medida em que os microsserviços poderão atrasá-lo se você os usar na hora errada; no longo prazo, porém, os microsserviços poderão melhorar o modo como os usuários interagem com seus sitemas.
 
 **Referência Bibliografica** : 
 
 * Design de Microsserviços com Django - Akos Hochrein - Novatec Editora Ltda.
+* Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software - Susan J. Fowler - Novatec Editora Ltda.
